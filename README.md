@@ -48,7 +48,7 @@ The script expects two arguments:
 
 * Required argument:
 
-    * MRT gzipped file (-m, --mrt_file)
+    * -m, --mrt_file: MRT gzipped file path
 
 * Optional argument:
     * -a,--all_paths: Toggle best path only or all paths option
