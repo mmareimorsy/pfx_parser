@@ -410,7 +410,7 @@ This leads to following paths stored for 0.0.0.0/0 prefix
 },
 ```
 
-Output will be saved in local directory as "ipv4_rib.json" & "ipv6_rib.json" for IPv4 & IPv6 internet prefixes respectively.
+Output will be saved in local directory as ```ipv4_rib.json``` & ```ipv6_rib.json``` for IPv4 & IPv6 internet prefixes respectively.
 
 Example results from this [snapshot April 2023]()can be downloaded from Gdrive [Here](https://drive.google.com/drive/folders/1-2CZHaXhaQ_j9WdbaT3KqjPMG-FWzeob?usp=sharing)
 
